@@ -41,6 +41,6 @@ Button.propTypes = {
 
 Button.defaultProps = {
   backgroundColor: null,
-  label: 'Button',
+  label: null,
   onClick: undefined,
 };
